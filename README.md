@@ -1,0 +1,2 @@
+# structure
+THIS IS THE LAB PROGRAM
